@@ -1,0 +1,13 @@
+/data/
+/ann/
+/bows/
+/cnn/
+/cnn-lstm/
+/cnn-trend/
+/data/
+/embedding_semantics/
+/gru/
+/gru-trend/
+/lstm/
+/lstm-trend/
+/rnn/
